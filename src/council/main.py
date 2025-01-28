@@ -1,3 +1,8 @@
+import logfire
+
+logfire.configure()
+
+
 def main():
     print("Hello Council!")
 
